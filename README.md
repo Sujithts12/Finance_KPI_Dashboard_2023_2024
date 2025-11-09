@@ -6,7 +6,7 @@ A professional **Power BI dashboard** designed to analyze and monitor key financ
  - Link : [https://l1nk.dev/pHWeS](https://acesse.one/actual-vs-target-dataset)
 
 📂 Download `.pbix` file and open it with **Microsoft Power BI Desktop**.  
-👉 [Download Finance_KPI_Dashboard_2023_2024.pbix](https://github.com/Sujithts12/Finance_KPI_Dashboard_2023_2024/blob/main/Sales_And_Target_Analysis.pbix?raw=true)
+👉 [USA_Sales_Analysis_dashboard.pbix](./USA_Sales_Analysis_dashboard.pbix)
 
 
 ## 📊 Overview  
@@ -77,37 +77,34 @@ IF([% Varience] > 0, up,
    IF([% Varience] < 0, down, neutral))
 ---
 ## 📊 Report Snapshot (Power BI DESKTOP)
-1.
-![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/ALL.png)
-2.
-![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Delish.png)
-3.
-![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Jucies.png)
-4.
-![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Tempo.png)
-5.
-![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Yuminies.png)
-# Data Model Snapshot 
-![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales1.jpeg)
+
+### 1️⃣ Overall Sales Performance
+![ALL Dashboard](https://raw.githubusercontent.com/Sujithts12/Finance_KPI_Dashboard_2023_2024/main/ALL.png)
 
 ---
 
-# Report Snapshot (Power BI DESKTOP)
+### 2️⃣ Delish Sales Report
+![Delish Dashboard](https://raw.githubusercontent.com/Sujithts12/Finance_KPI_Dashboard_2023_2024/main/Delish.png)
 
-### 1. For All Teams
-![Finance KPI Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0013.jpg)
+---
 
-### 2. For Team Delish
-![Finance KPI Dashboard - Team Delish](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0014.jpg)
+### 3️⃣ Jucies Sales Report
+![Jucies Dashboard](https://raw.githubusercontent.com/Sujithts12/Finance_KPI_Dashboard_2023_2024/main/Jucies.png)
 
-### 3. For Team Juices
-![Finance KPI Dashboard - Team Juices](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0015.jpg)
+---
 
-### 4. For Team Tempo
-![Finance KPI Dashboard - Team Tempo](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0017.jpg)
+### 4️⃣ Tempo Sales Report
+![Tempo Dashboard](https://raw.githubusercontent.com/Sujithts12/Finance_KPI_Dashboard_2023_2024/main/Tempo.png)
 
-### 5. For Team Yummies
-![Finance KPI Dashboard - Team Yummies](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_
+---
+
+### 5️⃣ Yuminies Sales Report
+![Yuminies Dashboard](https://raw.githubusercontent.com/Sujithts12/Finance_KPI_Dashboard_2023_2024/main/Yuminies.png)
+
+---
+
+## 📁 Project File
+- [USA_Sales_Analysis_dashboard.pbix](./USA_Sales_Analysis_dashboard.pbix)
 ## 🎨 Design Theme  
 
 - **Color Scheme:**  
