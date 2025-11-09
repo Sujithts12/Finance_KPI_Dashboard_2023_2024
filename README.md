@@ -76,37 +76,19 @@ formatted_var_pct &
 IF([% Varience] > 0, up,
    IF([% Varience] < 0, down, neutral))
 ---
+## 📊 Report Snapshot (Power BI DESKTOP)
+1.
+![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/ALL.png)
+2.
+![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Delish.png)
+3.
+![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Jucies.png)
+4.
+![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Tempo.png)
+5.
+![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/Yuminies.png)
 # Data Model Snapshot 
-![Finance KPI Dashboard 2023-2024](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/Data_model.jpeg)
----
-# Report Snapshot (Power BI DESKTOP) 
-[1. For All Teams
-![Finance KPI Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0013.jpg](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0013.jpg)
-
-https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0013.jpg
-
-
-2. For Team Delish
-
-![Finance KPI Dashboard 2023-2024]([https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0014.jpg](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0013.jpg
-
-
-
-3. For Team Jucies
-
-![Finance KPI Dashboard 2023-2024](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0015.jpg)
-
-
-4. For Team Tempo
-
-![Finance KPI Dashboard 2023-2024](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0017.jpg)
-
-5. For Team Yummies
-
-![Finance KPI Dashboard 2023-2024](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/IMG-20251102-WA0016.jpg)
-
-# Data Model Snapshot 
-![Finance KPI Dashboard 2023-2024](https://raw.githubusercontent.com/sujithts31618-ui/Finance_KPI_Dashboard_2023_2024/main/Data_model.jpeg)
+![Finance_KPI_Dashboard_2023_2024](https://raw.githubusercontent.com/Sujithts12/Sales_Analysis_Performance_USA/main/sales1.jpeg)
 
 ---
 
